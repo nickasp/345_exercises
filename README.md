@@ -1,5 +1,5 @@
 # 345_exercises
-OS obligatory course, Computer Science Department, University of Crete
+OS obligatory course (hy345), Computer Science Department, University of Crete
 
 Operating System Procedures and Implementation (Summary)
 
